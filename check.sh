@@ -31,7 +31,7 @@ echo -e '\e[36m GITHUB : FajarTheGGman'
 echo -e '\e[33m}'
 
 echo -e '\e[31m[Sumber API] : co.vid19.id'
-echo -e '\e[32mStay Save Everyone :)'
+echo -e '\e[32mStay Safe Everyone :)'
 
 echo -e '\e[31m[ Ketik CTRL + C To stop ]'
 
