@@ -5,7 +5,7 @@
 
 # Screenshoot
 
-![alt-text](https://github.com/FajarTheGGman/F-Backup/blob/master/.img/Screenshot_2020-03-14-21-21-27-619_com.termux-01.jpeg)
+![alt-text](https://github.com/FajarTheGGman/Covid-Info/blob/master/.img/Screenshot_2020-03-14-21-21-27-619_com.termux-01.jpeg)
 
 # How to install ?
 
