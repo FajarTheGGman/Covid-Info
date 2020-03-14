@@ -47,7 +47,7 @@ p=$(curl -s https://co.vid19.id/api/dashboard | jq .total_recovered)
 k=$(curl -s https://co.vid19.id/api/dashboard | jq .total_death)
 
 
-echo -e '\e[33m[------- Total Kasus Korona Di indonesia -------]'
+echo -e '\e[33m[------- Total Kasus Corona Di indonesia -------]'
 echo -e '\e[36m[Kasus Hari ini ] > ' $t
 echo -e '\e[36m[Total Kasus] > ' $c
 echo -e '\e[36m[Total Pasien Sembuh] > ' $p
